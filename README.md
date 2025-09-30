@@ -7,7 +7,7 @@ Voting application with anonymity that relies on  blockchain.
 
 ## Libraries
 - p2p networking
-  - libp2p → https://libp2p.io/
+  - libp2p → https://libp2p.io/ https://www.npmjs.com/package/libp2p
   - socket.io/ws
 - data structure
   - level db (key value blocks)
